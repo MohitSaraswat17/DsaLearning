@@ -19,7 +19,7 @@ package Section3Mathematics;
 public class Q4TrailingZeroesinFactorial {
     public static void main(String[] args) {
 //        System.out.println(NaiveCountTrailingZeroes(10));
-        System.out.println(effiecientCountrailingZeroes(251));
+        System.out.println(effiecientCountrailingZeroes(10));
     }
 
 
